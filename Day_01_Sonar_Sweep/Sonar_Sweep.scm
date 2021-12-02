@@ -1,6 +1,5 @@
 ;;; Part 1
 ;;; ------
-
 ;; helpers
 (define input
   (letrec ((input-file (open-input-file "Input.txt"))
